@@ -55,6 +55,7 @@ You can download a pre-compiled binary from the [releases page](https://github.c
 ### Built-in Tool
 
 ![Support Tools Output](example/screenshot-hercules.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjackgraves%2Fstandalone-atlassian-log-scanner.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjackgraves%2Fstandalone-atlassian-log-scanner?ref=badge_shield)
 
 ### Standalone Tool
 
@@ -68,3 +69,7 @@ You can download a pre-compiled binary from the [releases page](https://github.c
 - [ ] Implement multiple definitions per analysis (by combining XML)
 - [ ] Implement Jira Service Desk App for use with support tickets
 - [ ] Port to Node.js for use with NPM
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjackgraves%2Fstandalone-atlassian-log-scanner.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjackgraves%2Fstandalone-atlassian-log-scanner?ref=badge_large)
